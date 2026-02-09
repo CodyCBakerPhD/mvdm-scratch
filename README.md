@@ -1,2 +1,3 @@
-# mvdm-scratch
-Temporary repo to track progress on adapting mvdm:odor-pixels analysis scripts.
+# MVDM Scratch
+
+Temporary repo to track progress on adapting `mvdm:odor-pixels` analysis scripts.
