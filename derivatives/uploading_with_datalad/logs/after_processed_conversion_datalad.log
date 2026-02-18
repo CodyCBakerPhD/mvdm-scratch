@@ -1,0 +1,123 @@
+commit 29e48f7e306d9ebffa8b4c5abfd4ebe249686aa6
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 14:25:53 2026 -0500
+
+    [DATALAD RUNCMD] singularity exec -B /mnt/d/mvdm/conversi...
+    
+    === Do not change lines below ===
+    {
+     "chain": [],
+     "cmd": "singularity exec -B {pwd},/mnt/g:/mnt/g .datalad/environments/vandermeerlab-to-bids/image vandermeerlab2bids convert nwb   --datapath ./input  --outpath ./001470   --experiment OdorSequence   --stream processed",
+     "dsid": "28e3dc5d-3ea4-413a-a729-6c4d91aa7b3a",
+     "exit": 0,
+     "extra_inputs": [
+      ".datalad/environments/vandermeerlab-to-bids/image"
+     ],
+     "inputs": [],
+     "outputs": [],
+     "pwd": "."
+    }
+    ^^^ Do not change lines above ^^^
+
+commit 82d1e739cf81d2f2fed7a1d39a9fb5ce9fb6853d
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 13:52:30 2026 -0500
+
+    configure bind mounts
+
+commit da868e977dbc81da2fb9e3c879493077ab4e8ea0
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 13:51:37 2026 -0500
+
+    configure bind mounts
+
+commit 48dcf2f094fa47c6033a9d920167f4d861db468a
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 13:27:01 2026 -0500
+
+    [DATALAD] Update containerized environment 'vandermeerlab-to-bids'
+
+commit fed09506026b39e48114bae58277279e5b29855b
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 13:26:46 2026 -0500
+
+    [DATALAD] removed content
+
+commit 8ef13855a8466b30f60d56e38a2434c917ceba33
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:22:10 2026 -0500
+
+    [DATALAD] Update containerized environment 'vandermeerlab-to-bids'
+
+commit 6651df79444856710cd4502c40e8cc4bd5b90e13
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:21:56 2026 -0500
+
+    [DATALAD] removed content
+
+commit d24ebd315367e948012da98189258fcf189bf9f9
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:11:16 2026 -0500
+
+    [DATALAD] Update containerized environment 'vandermeerlab-to-bids'
+
+commit 8a2959c1a2042417a8c7c2dff41a80a82bc894a2
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:11:00 2026 -0500
+
+    [DATALAD] removed content
+
+commit 4e8c0a1d88bbda890f23ef32aaf4348d7faa0fc4
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:05:15 2026 -0500
+
+    preparaing for run
+
+commit b32243b812420ce6cffb7bd5f6c2945a2563fa7d
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:04:53 2026 -0500
+
+    [DATALAD] Update containerized environment 'vandermeerlab-to-bids'
+
+commit 4696f45cd55e90c8f8bc55095e13dc03ffdb81f5
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 10:04:38 2026 -0500
+
+    [DATALAD] removed content
+
+commit 413dfe39bb5dc6f05f85e84945565c67c375e0fa
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 01:40:37 2026 -0500
+
+    [DATALAD RUNCMD] dandi download DANDI:001470 --download d...
+    
+    === Do not change lines below ===
+    {
+     "chain": [],
+     "cmd": "dandi download DANDI:001470 --download dandiset.yaml",
+     "dsid": "28e3dc5d-3ea4-413a-a729-6c4d91aa7b3a",
+     "exit": 0,
+     "extra_inputs": [],
+     "inputs": [],
+     "outputs": [],
+     "pwd": "."
+    }
+    ^^^ Do not change lines above ^^^
+
+commit c6e3e390524dd395f44b691c3ba380a5ab6a7e95
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 01:39:21 2026 -0500
+
+    [DATALAD] Configure containerized environment 'nwb2bids'
+
+commit 60b1171b380fd653c95063d2c736458d1406d822
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 01:37:30 2026 -0500
+
+    [DATALAD] Configure containerized environment 'vandermeerlab-to-bids'
+
+commit e9d17ffc3f7c777a0e882d1c38755b5c9f743252
+Author: Cody Baker <cody.c.baker.phd@gmail.com>
+Date:   Wed Feb 18 01:36:26 2026 -0500
+
+    [DATALAD] new dataset

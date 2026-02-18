@@ -16,7 +16,8 @@ The initial version was built off of a single example (one of the M541 sessions)
 - A fallback value of "U" was built into the converter.
 
 `M540-2024-08-16`:
-- Had no `channel_ids` in the `mua_units_imec0.mat` file. 
+- Had no `channel_ids` in the `mua_units_imec0.mat` file.
+- The SpikeGLX gate is `g1` without an accompanying `g0`.
 
 `M540-2024-08-20`:
 - `ExpKeys.sex="2024-08-19"`, not the expected letter code. This was likely a typo. I built in a specific session override rather than modifying source files.
