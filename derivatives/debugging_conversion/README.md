@@ -86,6 +86,7 @@ folder_path
 - Encountered validation error claiming the Path `input/M588/rawdata/M588-2025-06-26_g0` does not point to a directory.
 - This is because, unlike all other sessions, the `_g0` path was nested under a parent `M588-2025-06-26` directory.
 - This was manually corrected to be like the other subjects.
+- Turns out `M601` was the same way.
 
 `M610-2025-06-16`:
 - `ExpKeys.sex="Female"`. Added to mapping.
