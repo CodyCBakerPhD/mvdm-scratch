@@ -82,6 +82,11 @@ folder_path
 - `ExpKeys.sex="Male"`. Added to mapping.
 - It was then noticed that the rest of the data was empty and that this particular session wasn't actually in the used sessions list. Session was then discarded.
 
+`M588-2025-06-26_g0`:
+- Encountered validation error claiming the Path `input/M588/rawdata/M588-2025-06-26_g0` does not point to a directory.
+- This is because, unlike all other sessions, the `_g0` path was nested under a parent `M588-2025-06-26` directory.
+- This was manually corrected to be like the other subjects.
+
 `M610-2025-06-16`:
 - `ExpKeys.sex="Female"`. Added to mapping.
 
